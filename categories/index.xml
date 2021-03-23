@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Perspectives</title>
-    <link>https://perspectives21.github.io/categories/</link>
-      <atom:link href="https://perspectives21.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://perspective-ws.github.io/categories/</link>
+      <atom:link href="https://perspective-ws.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://perspectives21.github.io/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_512x512_fill_lanczos_center_2.png</url>
+      <url>https://perspective-ws.github.io/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://perspectives21.github.io/categories/</link>
+      <link>https://perspective-ws.github.io/categories/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Perspectives</title>
-    <link>https://perspective-ws.github.io/authors/</link>
-      <atom:link href="https://perspective-ws.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://perspectives-ws.github.io/2021/authors/</link>
+      <atom:link href="https://perspectives-ws.github.io/2021/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://perspective-ws.github.io/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_512x512_fill_lanczos_center_2.png</url>
+      <url>https://perspectives-ws.github.io/2021/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://perspective-ws.github.io/authors/</link>
+      <link>https://perspectives-ws.github.io/2021/authors/</link>
     </image>
     
   </channel>

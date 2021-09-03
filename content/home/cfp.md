@@ -12,7 +12,7 @@ title = "Call for Papers"
   columns = "1"
 +++
 
-Topics of interest include, but are not limited to, the following:
+Topics of interest include, but are not limited to, the following: 
 
 * Case studies of difficult, hard-to-evaluate scenarios
 * Evaluations with contradicting results

@@ -28,7 +28,7 @@ title = "Program Committee"
 * Michael Ekstrand (Boise State University, USA)
 * Mehdi Elahi (University of Bergen, Norway)
 * Maurizio Ferrari Dacrema (Politecnico di Milano, Italy)
-* Andres Ferraro (Universitat Pompeu Fabra, Spain)
+* Andrés Ferraro (Universitat Pompeu Fabra, Spain)
 * Hanna Hauptmann (Utrecht University, The Netherlands)
 * Dietmar Jannach (AAU Klagenfurt, Austria)
 * Mesut Kaya (Aalborg University Copenhagen, Denmark)

@@ -40,7 +40,7 @@ title = "Program Committee"
 * Ashlee Milton (Boise State University, USA)
 * Maria Soledad Pera (Boise State University, USA)
 * Jessie Smith (University of Colorado, Boulder, USA)
-* Marko Tkalčič (University of Primorska)
+* Marko Tkalčič (University of Primorska, Slovenia)
 * Martijn C. Willemsen (Eindhoven University of Technology, The Netherlands)
 * Markus Zanker (Free University of Bozen-Bolzano, Italy)
 <!-- * Konstantina Christakopoulou (Google) -->

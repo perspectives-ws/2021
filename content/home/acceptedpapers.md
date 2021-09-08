@@ -41,7 +41,7 @@ Daniel Woolridge, Sean Wilner and Madeleine Glick
 **Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse**  
 Ngozi Ihemelandu and Michael Ekstrand
 
-**The Effect of Popularity Bias on Group Recommendation Methods**  
+**Coupled or Decoupled Evaluation for Group Recommendation Methods?**  
 Ladislav Peska and Ladislav Maleček
 
 **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  

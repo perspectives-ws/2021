@@ -19,9 +19,9 @@ title = "Program"
 15.45-16.00 Break  
 16.00-16.45 Discussions in break-out rooms  
 16.45-17.15 Break  
-17.15-17.30 Evaluating Recommenders with Distributions (Michael D. Ekstrand, Fernando Diaz)  
-17.30-18.00 General discussions 
-
+17.15-17.30 Evaluating Recommenders with Distributions (Michael D. Ekstrand, Ben Carterette, Fernando Diaz)  
+17.30-18.00 General discussions
+Times are in CEST (Amsterdam local time).
 
 ### Thursday, September 30th, 2021 (on-site, room tba)
 We will have an on-site meeting where we’ll (informally) discuss open issues and problems regarding RecSys evaluation.

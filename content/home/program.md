@@ -15,7 +15,7 @@ title = "Program"
 ### Saturday, September 25th, 2021 (online)
 
 15.00-15.10 Welcome  
-15.10-15.45 Keynote (tba)  
+15.10-15.45 Keynote (Zeno Gantner, title tba)  
 15.45-16.00 Break  
 16.00-16.45 Discussions in break-out rooms  
 16.45-17.15 Break  

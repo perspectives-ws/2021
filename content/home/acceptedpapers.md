@@ -12,6 +12,11 @@ title = "Accepted Contributions"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+
+
+[Extended abstract](https://dl.acm.org/doi/10.1145/3460231.3470929) about the workshop as part of the RecSys proceedings.  
+
+
 ## Papers
 
 **Evaluating recommender systems with and for children: towards a multi-perspective framework**  

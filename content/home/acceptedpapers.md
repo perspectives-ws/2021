@@ -43,6 +43,9 @@ Indre Zliobaite
 **Sequence or Pseudo-Sequence? An Analysis of Sequential Recommendation Datasets**  
 Daniel Woolridge, Sean Wilner and Madeleine Glick
 
+{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" >}}
+
+
 **Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse**  
 Ngozi Ihemelandu and Michael Ekstrand
 

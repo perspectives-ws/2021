@@ -12,7 +12,7 @@ title = "Program"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-### Saturday, September 25th, 2021 (online)
+### Saturday, September 25th, 2021, 15:00-18:00 CEST (online)
 
 15.00-15.10 Welcome  
 15.10-15.45 Keynote (Zeno Gantner, title tba)  
@@ -24,6 +24,6 @@ title = "Program"
 
 Times are in CEST (Amsterdam local time).
 
-### Thursday, September 30th, 2021, 11:30 CEST (on-site, room tba)
+### Thursday, September 30th, 2021, 11:30-13:00 CEST (on-site, room tba)
 We will have an on-site meeting where we’ll (informally) discuss open issues and problems regarding RecSys evaluation.
 

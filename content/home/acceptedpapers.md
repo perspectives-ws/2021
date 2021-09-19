@@ -52,6 +52,8 @@ Ngozi Ihemelandu and Michael Ekstrand
 **Coupled or Decoupled Evaluation for Group Recommendation Methods?**  
 Ladislav Peska and Ladislav Maleček
 
+{{< youtube "lANnv0hUZEg" >}}
+
 **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  
 Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Francesco Barile, Rishav Hada and Nava Tintarev 
 

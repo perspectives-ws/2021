@@ -24,6 +24,6 @@ title = "Program"
 
 Times are in CEST (Amsterdam local time).
 
-### Thursday, September 30th, 2021 (on-site, room tba)
+### Thursday, September 30th, 2021, 11:30 CEST (on-site, room tba)
 We will have an on-site meeting where we’ll (informally) discuss open issues and problems regarding RecSys evaluation.
 

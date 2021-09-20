@@ -31,6 +31,10 @@ Ngozi Ihemelandu and Michael Ekstrand -->
 Francesco Barile, Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Rishav Hada and Nava Tintarev -->
 {{< youtube hdqJda9hGhg >}}
 
+<!-- **Evaluating recommender systems with and for children: towards a multi-perspective framework**
+Emilia Gómez, Vicky Charisi and Stephane Chaudron -->
+{{< youtube XxLU9W37SZA>}}
+
 <!-- **Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems**  
 Anna Marie Schröder and Maliheh Ghajargar -->
 {{< vimeo 598749992 >}}
@@ -41,18 +45,19 @@ Daniel Woolridge, Sean Wilner and Madeleine Glick -->
 
 <!--**Time-dependent Evaluation of Recommender Systems**  
 Teresa Scheidt and Joeran Beel -->
-{{< video library="1" src="02_scheidt.mp4" controls="yes" width="200px" height="150px">}}
-
-
-
-<!-- **Evaluating recommender systems with and for children: towards a multi-perspective framework**
-Emilia Gómez, Vicky Charisi and Stephane Chaudron -->
-
-<!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
-Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
+{{< video library="1" src="14_scheidt.mp4" controls="yes" width="200px" height="150px">}}
 
 <!-- **Modeling Online Behavior in Recommender Systems: The Importance of Temporal Context**  
 Milena Filipovic, Blagoj Mitrevski, Diego Antognini, Emma Lejal Glaude, Boi Faltings and Claudiu Musat -->
+{{< video library="1" src="09_filipovic.mp4" controls="yes" width="200px" height="150px">}}
+
+
+
+
+
+
+<!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
+Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
 
 <!--**On Evaluating Session-Based Recommendation with Implicit Feedback**  
 Fernando Diaz -->

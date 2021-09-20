@@ -19,6 +19,11 @@ Francesco Barile, Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Rishav H
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/hdqJda9hGhg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
+&lt;!-- **Evaluating recommender systems with and for children: towards a multi-perspective framework**
+Emilia Gómez, Vicky Charisi and Stephane Chaudron -->
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/XxLU9W37SZA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
 &lt;!-- **Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems**
 Anna Marie Schröder and Maliheh Ghajargar -->
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -32,14 +37,15 @@ Daniel Woolridge, Sean Wilner and Madeleine Glick -->
 &lt;!--**Time-dependent Evaluation of Recommender Systems**
 Teresa Scheidt and Joeran Beel -->
 &lt;video controls >
-&lt;source src="https://perspectives-ws.github.io/2021/2021/media/02_scheidt.mp4" type="video/mp4">
+&lt;source src="https://perspectives-ws.github.io/2021/2021/media/14_scheidt.mp4" type="video/mp4">
 &lt;/video>
-&lt;!-- **Evaluating recommender systems with and for children: towards a multi-perspective framework**
-Emilia Gómez, Vicky Charisi and Stephane Chaudron -->
-&lt;!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
-Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
 &lt;!-- **Modeling Online Behavior in Recommender Systems: The Importance of Temporal Context**
 Milena Filipovic, Blagoj Mitrevski, Diego Antognini, Emma Lejal Glaude, Boi Faltings and Claudiu Musat -->
+&lt;video controls >
+&lt;source src="https://perspectives-ws.github.io/2021/2021/media/09_filipovic.mp4" type="video/mp4">
+&lt;/video>
+&lt;!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
+Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
 &lt;!--**On Evaluating Session-Based Recommendation with Implicit Feedback**
 Fernando Diaz -->
 &lt;!-- **Prediction Accuracy and Autonomy**

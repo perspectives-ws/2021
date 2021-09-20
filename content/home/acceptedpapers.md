@@ -40,16 +40,18 @@ Anton Angwald, Kalle Areskoug and Alan Said
 **Recommender systems meet species distribution modelling**  
 Indre Zliobaite
 
+{{< youtube SD9wJ_BV_oQ >}}
+
 **Sequence or Pseudo-Sequence? An Analysis of Sequential Recommendation Datasets**  
 Daniel Woolridge, Sean Wilner and Madeleine Glick
 
-{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" width="200px">}}
+{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" width="200px" height="150px">}}
 
 
 **Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse**  
 Ngozi Ihemelandu and Michael Ekstrand
 
-{{< youtube "pLzxAGy9ZXU">}}
+{{< youtube src="pLzxAGy9ZXU" width="20%">}}
 
 **Coupled or Decoupled Evaluation for Group Recommendation Methods?**  
 Ladislav Peska and Ladislav Maleček

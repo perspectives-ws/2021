@@ -15,6 +15,7 @@ main:
     weight: 30
   - name: Accepted Contributions
     url: '#acceptedpapers'
+    weight: 40
   - name: Program
     url: '#program'
     weight: 50

@@ -22,8 +22,6 @@ title = "Accepted Contributions"
 **Coupled or Decoupled Evaluation for Group Recommendation Methods?**  
 Ladislav Peska and Ladislav Maleček
 
-{{< youtube "lANnv0hUZEg" >}}
-
 **Evaluating recommender systems with and for children: towards a multi-perspective framework**  
 Emilia Gómez, Vicky Charisi and Stephane Chaudron 
 
@@ -42,31 +40,20 @@ Anton Angwald, Kalle Areskoug and Alan Said
 **Recommender systems meet species distribution modelling**  
 Indre Zliobaite
 
-{{< youtube SD9wJ_BV_oQ >}}
-
 **Sequence or Pseudo-Sequence? An Analysis of Sequential Recommendation Datasets**  
 Daniel Woolridge, Sean Wilner and Madeleine Glick
-
-{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" width="200px" height="150px">}}
 
 **Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse**  
 Ngozi Ihemelandu and Michael Ekstrand
 
-{{< youtube pLzxAGy9ZXU>}}
-
 **Time-dependent Evaluation of Recommender Systems**  
 Teresa Scheidt and Joeran Beel
-
-{{< video library="1" src="02_scheidt.mp4" controls="yes" width="200px" height="150px">}}
-
 
 **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  
 Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Francesco Barile, Rishav Hada and Nava Tintarev 
 
 **Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems**  
 Anna Marie Schröder and Maliheh Ghajargar 
-
-{{< vimeo 598749992 >}}
 
 
 ## Abstracts

@@ -13,12 +13,15 @@ main:
   - name: Important Dates
     url: '#dates'
     weight: 30
-  - name: Accepted Contributions
-    url: '#acceptedpapers'
-    weight: 40
   - name: Program
     url: '#program'
+    weight: 40
+  - name: Accepted Contributions
+    url: '#acceptedpapers'
     weight: 50
+  - name: Videos
+    url: 'videos'
+    weight: 60
   - name: Committee
     url: '#committee'
-    weight: 60
+    weight: 70

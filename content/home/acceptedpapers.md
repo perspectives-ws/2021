@@ -43,11 +43,13 @@ Indre Zliobaite
 **Sequence or Pseudo-Sequence? An Analysis of Sequential Recommendation Datasets**  
 Daniel Woolridge, Sean Wilner and Madeleine Glick
 
-{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" >}}
+{{< video library="1" src="02_woolridge_sequence.mp4" controls="yes" width="200px">}}
 
 
 **Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse**  
 Ngozi Ihemelandu and Michael Ekstrand
+
+{{< youtube "pLzxAGy9ZXU">}}
 
 **Coupled or Decoupled Evaluation for Group Recommendation Methods?**  
 Ladislav Peska and Ladislav Maleček

@@ -27,11 +27,13 @@ Indre Zliobaite -->
 Ngozi Ihemelandu and Michael Ekstrand -->
 {{< youtube pLzxAGy9ZXU>}}
 
+<!-- **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  
+Francesco Barile, Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Rishav Hada and Nava Tintarev -->
+{{< youtube hdqJda9hGhg >}}
 
 <!-- **Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems**  
 Anna Marie Schröder and Maliheh Ghajargar -->
 {{< vimeo 598749992 >}}
-
 
 <!-- **Sequence or Pseudo-Sequence? An Analysis of Sequential Recommendation Datasets**  
 Daniel Woolridge, Sean Wilner and Madeleine Glick -->
@@ -57,7 +59,4 @@ Fernando Diaz -->
 
 <!-- **Prediction Accuracy and Autonomy**  
 Anton Angwald, Kalle Areskoug and Alan Said -->
-
-<!-- **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  
-Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Francesco Barile, Rishav Hada and Nava Tintarev -->
 

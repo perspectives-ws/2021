@@ -50,7 +50,7 @@ Ngozi Ihemelandu and Michael Ekstrand
 Teresa Scheidt and Joeran Beel
 
 **Toward Benchmarking Group Explanations: Evaluating the Effect of Aggregation Strategies versus Explanation**  
-Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Francesco Barile, Rishav Hada and Nava Tintarev 
+Francesco Barile, Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Rishav Hada and Nava Tintarev
 
 **Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems**  
 Anna Marie Schröder and Maliheh Ghajargar 

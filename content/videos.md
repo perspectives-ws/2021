@@ -57,10 +57,13 @@ Milena Filipovic, Blagoj Mitrevski, Diego Antognini, Emma Lejal Glaude, Boi Falt
 
 
 <!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
-Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
+Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky -->
+{{< video library="1" src="03_wang.mp4" controls="yes" width="200px" height="150px">}}
+
 
 <!--**On Evaluating Session-Based Recommendation with Implicit Feedback**  
 Fernando Diaz -->
+{{< video library="1" src="04_diaz.mp4" controls="yes" >}}
 
 <!-- **Prediction Accuracy and Autonomy**  
 Anton Angwald, Kalle Areskoug and Alan Said -->

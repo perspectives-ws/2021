@@ -19,9 +19,6 @@ main:
   - name: Accepted Contributions
     url: '#acceptedpapers'
     weight: 50
-  - name: Videos
-    url: 'videos'
-    weight: 60
   - name: Committee
     url: '#committee'
     weight: 70

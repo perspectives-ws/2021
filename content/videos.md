@@ -19,7 +19,7 @@ Ladislav Peska and Ladislav Maleček
 
 <br>
 
-## Evaluating recommender systems with and for children: towards a multi-perspective framewor
+## Evaluating recommender systems with and for children: towards a multi-perspective framework
 Emilia Gómez, Vicky Charisi and Stephane Chaudron 
 {{< youtube XxLU9W37SZA>}}
 
@@ -81,7 +81,7 @@ Francesco Barile, Shabnam Najafian, Tim Draws, Oana Inel, Alisa Rieger, Rishav H
 <br>
 
 ## Unboxing the Algorithm with Understandability: On Algorithmic Experience in Music Recommender Systems
-Anna Marie Schröder and Maliheh Ghajargar -->
+Anna Marie Schröder and Maliheh Ghajargar
 {{< vimeo 598749992 >}}
 
 <br>

@@ -45,8 +45,14 @@ Milena Filipovic, Blagoj Mitrevski, Diego Antognini, Emma Lejal Glaude, Boi Falt
 &lt;source src="https://perspectives-ws.github.io/2021/2021/media/09_filipovic.mp4" type="video/mp4">
 &lt;/video>
 &lt;!--**MOCHI: an Offline Evaluation Framework for Educational Recommendations**
-Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky
+Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky -->
+&lt;video controls >
+&lt;source src="https://perspectives-ws.github.io/2021/2021/media/03_wang.mp4" type="video/mp4">
+&lt;/video>
 &lt;!--**On Evaluating Session-Based Recommendation with Implicit Feedback**
 Fernando Diaz -->
+&lt;video controls >
+&lt;source src="https://perspectives-ws.github.io/2021/2021/media/04_diaz.mp4" type="video/mp4">
+&lt;/video>
 &lt;!-- **Prediction Accuracy and Autonomy**
 Anton Angwald, Kalle Areskoug and Alan Said --></description></item><item><title/><link>https://perspectives-ws.github.io/2021/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://perspectives-ws.github.io/2021/home/</guid><description/></item></channel></rss>

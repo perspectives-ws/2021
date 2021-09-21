@@ -14,8 +14,8 @@ title = "Accepted Contributions"
 +++
 
 
+[Teaser Videos](videos) for the accepted papers.
 [Extended abstract](https://dl.acm.org/doi/10.1145/3460231.3470929) about the workshop as part of the RecSys proceedings.  
-
 
 ## Papers
 

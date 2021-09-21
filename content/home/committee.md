@@ -18,7 +18,7 @@ title = "Program Committee"
 * [Christine Bauer (Utrecht University, The Netherlands)](https://christinebauer.eu/)
 * [Alan Said (University of Gothenburg, Sweden)](http://alansaid.com)
 
-<h2>Program Commitee</h2>
+<h2>Program Committee</h2>
 
 * Vito Walter Anelli (Politecnico di Bari, Italy)
 * Alejandro Bellogin (Universidad Autónoma de Madrid, Spain)

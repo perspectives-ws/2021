@@ -25,7 +25,7 @@ Ladislav Peska and Ladislav Maleček
 
 **Evaluating recommender systems with and for children: towards a multi-perspective framework**  
 Emilia Gómez, Vicky Charisi and Stephane Chaudron  
-[Video](videos#evaluating-recommender-systems-with-and-for-children-towards-a-multi-perspective-framewor)
+[Video](videos#evaluating-recommender-systems-with-and-for-children-towards-a-multi-perspective-framework)
 
 **MOCHI: an Offline Evaluation Framework for Educational Recommendations**  
 Chunpai Wang, Shaghayegh Sahebi and Peter Brusilovsky  
@@ -40,7 +40,8 @@ Fernando Diaz
 [Video](videos#on-evaluating-session-based-recommendation-with-implicit-feedback)
 
 **Prediction Accuracy and Autonomy**  
-Anton Angwald, Kalle Areskoug and Alan Said
+Anton Angwald, Kalle Areskoug and Alan Said  
+[Video](videos#prediction-accuracy-and-autonomy)
 
 **Recommender systems meet species distribution modelling**  
 Indre Zliobaite  

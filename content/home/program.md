@@ -27,5 +27,5 @@ Please watch the [videos](videos)  of the accepted papers *before* the workshop 
 
 Times are in CEST (Amsterdam local time).
 
-### Thursday, September 30th, 2021, 11:30-13:00 CEST (on-site, room tba)
+### Thursday, September 30th, 2021, 11:30-13:00 CEST (on-site, Berlage Zaal)
 We will have an on-site meeting where we’ll (informally) discuss open issues and problems regarding RecSys evaluation.

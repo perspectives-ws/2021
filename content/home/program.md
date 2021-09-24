@@ -18,7 +18,7 @@ Please watch the [videos](videos)  of the accepted papers *before* the workshop 
 ### Saturday, September 25th, 2021, 15:00-18:00 CEST (online)
 
 15.00-15.10 Welcome  
-15.10-15.45 Keynote (Zeno Gantner, title tba)  
+15.10-15.45 Keynote: [Recommender system evaluation: One gold standard, but no silver bullets](#keynote) by Zeno Gantner, Zalando  
 15.45-16.00 Break  
 16.00-16.45 Discussions in break-out rooms  
 16.45-17.15 Break  
@@ -29,4 +29,3 @@ Times are in CEST (Amsterdam local time).
 
 ### Thursday, September 30th, 2021, 11:30-13:00 CEST (on-site, room tba)
 We will have an on-site meeting where we’ll (informally) discuss open issues and problems regarding RecSys evaluation.
-

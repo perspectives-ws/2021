@@ -2,7 +2,7 @@
 # Accepted Papers page.
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 30
+weight = 35
 active = true
 
 # ... Put Your Section Options Here (title etc.) ...

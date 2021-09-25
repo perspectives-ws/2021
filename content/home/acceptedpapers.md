@@ -72,6 +72,6 @@ Anna Marie Schröder and Maliheh Ghajargar
 ## Abstracts
 
 **Evaluating Recommenders with Distributions**  
-Michael D. Ekstrand, Ben Carterette and Fernando Diaz
-
+Michael D. Ekstrand, Ben Carterette and Fernando Diaz  
+[Slides](slides/PERSPECTIVES2021_evaluating_with_distributions.pdf)
 

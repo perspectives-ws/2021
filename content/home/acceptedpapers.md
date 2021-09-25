@@ -15,8 +15,8 @@ title = "Accepted Contributions"
 
 
 [All Teaser Videos](videos) on a single page.  
-[Extended abstract](https://dl.acm.org/doi/10.1145/3460231.3470929) about the workshop as part of the RecSys proceedings.  
-
+[Extended abstract](https://dl.acm.org/doi/10.1145/3460231.3470929) about the workshop as part of the RecSys proceedings.   
+[Temporary proceedings](https://perspectives-ws.github.io/2021/proceedings/) (to appear on ceur-ws soon).
 
 ## Papers
 

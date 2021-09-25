@@ -13,7 +13,7 @@ title = "Program Committee"
 +++
 
 <h2>Workshop Chairs</h2>
-
+  
 * [Eva Zangerle (Universität Innsbruck, Austria)](http://evazangerle.at) 
 * [Christine Bauer (Utrecht University, The Netherlands)](https://christinebauer.eu/)
 * [Alan Said (University of Gothenburg, Sweden)](http://alansaid.com)

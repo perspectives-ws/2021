@@ -56,7 +56,7 @@ Daniel Woolridge, Sean Wilner and Madeleine Glick
 Ngozi Ihemelandu and Michael Ekstrand  
 [Video](videos#statistical-inference-the-missing-piece-of-recsys-experiment-reliability-discourse)
 
-{{< fontawesome award >}}   **Time-dependent Evaluation of Recommender Systems** (Best Paper Award)  
+{{< fontawesome award >}} &nbsp; **Time-dependent Evaluation of Recommender Systems** (Best Paper Award)  
 Teresa Scheidt and Joeran Beel  
 [Video](videos#time-dependent-evaluation-of-recommender-systems)
 

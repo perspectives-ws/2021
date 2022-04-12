@@ -25,3 +25,6 @@ main:
   - name: Committee
     url: '#committee'
     weight: 70
+  - name: Perspectives 2022
+    url: https://perspectives-ws.github.io/2022/
+    weight: 80
